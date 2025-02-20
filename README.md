@@ -12,11 +12,19 @@ Este projeto é um **Gerenciador de Tarefas (TODO List)** desenvolvido em **Java
 - **Ordenação automática** das tarefas por prioridade.
 
 ## 📌 Tecnologias Utilizadas
+### Backend:
 - **Java 11+** - Linguagem principal do projeto.
 - **Scanner (java.util.Scanner)** - Entrada de dados pelo terminal.
 - **ArrayList (java.util.ArrayList)** - Armazenamento das tarefas.
 - **Date (java.util.Date)** - Manipulação de datas.
 - **Comparator (java.util.Comparator)** - Ordenação das tarefas.
+
+### Frontend:
+- **HTML5** - Estrutura da página.
+- **CSS (Bootstrap)** - Estilização da página, proporcionando um layout responsivo e interativo.
+Utilização de Bootstrap 5 para design responsivo e componentes prontos.
+- **JavaScript** - Lógica de interação do usuário com a página.
+Manipulação de formulários, filtragem de tarefas, e armazenamento local das tarefas (localStorage).
 
 ## 🛠️ Como Executar o Programa
 
